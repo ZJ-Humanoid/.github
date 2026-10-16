@@ -5,8 +5,14 @@
 
 ------
 
+<p align="left">
+  <a href="https://www.zhihu.com/people/zj-humanoid"><img src="https://img.shields.io/badge/知乎-0084FF?style=flat&logo=zhihu&logoColor=white" alt="知乎"></a>
+  <a href="https://space.bilibili.com/3493140415645999"><img src="https://img.shields.io/badge/B站-FB7299?style=flat&logo=bilibili&logoColor=white" alt="B站"></a>
+  <a href="https://www.youtube.com/channel/UC82LZ55dEJsvV2osrdFEyfA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/company/109038301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="领英"></a>
+</p>
 
-
+------
 
 浙江人形机器人创新中心有限公司（简称“浙江人形”）成立于2023年12月，由熊蓉教授及团队携手多家知名产业伙伴共同创立。公司聚焦具身智能大小脑及人形机器人关键技术攻关与产品研发，围绕感知、决策、规划、控制等关键环节开展全栈自主研发，形成涵盖算法模型、机器人整机、核心部件及开发工具链的产品体系。
 
