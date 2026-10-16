@@ -1,7 +1,7 @@
 
 
 
-![zjh_logo](./assets/matrix.JPEG)
+![zjh_logo](./assets/matrix1.PNG)
 
 ------
 
